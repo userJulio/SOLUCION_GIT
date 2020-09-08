@@ -19,6 +19,11 @@ Public Class DALCliente
             cmd.ExecuteNonQuery()
             Return True
             cnn.Close()
+            If 1 == 1 Then
+                String mensaje = "holass"
+
+
+
 
         Catch ex As Exception
             Return False
