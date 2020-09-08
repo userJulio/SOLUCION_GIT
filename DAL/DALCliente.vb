@@ -20,7 +20,7 @@ Public Class DALCliente
             Return True
             cnn.Close()
             If 1 == 1 Then
-                String mensaje = "holasSCSCDCSDSs"
+                String mensaje = "holasSCSCDCSDSsCC"
 
 
 
